@@ -1,0 +1,16 @@
+body{
+    background-color:aliceblue;
+}
+
+.card-text{
+    color:blue;
+    font-weight: 800;
+}
+
+.card-title{
+    font-weight: 900;
+}
+
+.navbar-text{
+    color:rgb(19, 0, 128);
+}
